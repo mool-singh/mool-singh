@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**mool-singh/mool-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
  🔭 I’m currently working on php...
+ 
  🌱 I’m currently learning js
+ 
+ 📫 reach me at: Mool30699@gmail.com
+ <!--
+**mool-singh/mool-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
- 📫 reach me at: Mool30699@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
