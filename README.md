@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on php...
  
- 🌱 I’m currently learning js
+ 🌱 I’m currently learning react js
  
  📫 reach me at: Mool30699@gmail.com
  <!--
