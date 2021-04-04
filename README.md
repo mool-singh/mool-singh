@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on php...
+ 🔭 I’m PHP developer.
  
- 🌱 I’m currently learning react js
+ 🌱 I’m currently learning Laravel.
  
  📫 reach me at: Mool30699@gmail.com
  <!--
