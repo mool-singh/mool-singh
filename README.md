@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
- 🔭 I’m PHP developer.
- 
- 🌱 I’m currently learning Laravel.
+ 🔭 I’m full stack web developer.
+
  
  📫 reach me at: Mool30699@gmail.com
  <!--
